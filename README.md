@@ -1,13 +1,11 @@
 ## portfolio_CTF
 정보보안 포트폴리오 - CTF 대회
 
-![CTF대회_포스터](https://github.com/user-attachments/assets/ca461fc6-922c-486b-b0a0-caf3afce9dc9)
-
-
 # 🛡️ XSS-CTF & 취약점 기반 보안 실습 프로젝트
 
 ## 🔍 프로젝트 개요
 
+![CTF대회_포스터](https://github.com/user-attachments/assets/ca461fc6-922c-486b-b0a0-caf3afce9dc9)
 - **프로젝트명:** 정보보안 CTF 대회 – CTF 머신 설계 및 공격, 방어 실습
 - **수행기간:** 2025.03.13 ~ 2025.04.18
 - **목표:** 실제 CTF 환경 구축 및 웹/시스템 취약점 진단·공격 실습을 통해 보안 기술 역량 강화
